@@ -1,6 +1,6 @@
 Rick and Morty Character Compass
 
-O
+
 Welcome to the Rick and Morty Character Compass project! This web application utilizes the Rick and Morty API to fetch and display information about characters from the popular animated TV series, "Rick and Morty."
 
 Technologies Used
