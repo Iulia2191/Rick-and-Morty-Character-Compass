@@ -14,3 +14,5 @@ How to Use
 Simply open the HTML file in a web browser.
 The web page will fetch character data from the Rick and Morty API and display it in a user-friendly format.
 Feel free to explore the characters, their names, statuses, and species!
+
+![rixk](https://github.com/Iulia2191/Rick-and-Morty-Character-Compass/assets/125976840/d774d874-7d36-4d1e-8674-980156713271)
