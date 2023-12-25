@@ -17,5 +17,5 @@ const fetchData = () => {
     console.error("Error fetching data:", error);
   });
 };
-// Call the fetchData function
+
 fetchData();
